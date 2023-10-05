@@ -82,7 +82,8 @@ div {
     border:none;
     font-family: cursive;
     color: #004225;
-    margin: 3px;
+    margin: 10px;
+    margin-top: 40px;
     height: 150px;
     overflow: auto;
     padding: 15px;
